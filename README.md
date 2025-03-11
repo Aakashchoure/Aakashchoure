@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakashchoure
-- 👀 I’m interested in ... Study
-- 🌱 I’m currently learning ...Sardar Patel Polytechnic College
-- 💞️ I’m looking to collaborate on ... aakashchoure1@gmail.com
+- 👀 I’m interested in ...Cloud Computing
+- 🌱 I’m currently learning ...Raja Shankar Shah University
+- 💞️ I’m looking to collaborate on ... founder@neuracore.me
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
